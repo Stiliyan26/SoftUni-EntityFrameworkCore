@@ -1,0 +1,12 @@
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\bin\Debug\net6.0\FastFood.Services.Models.deps.json
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\bin\Debug\net6.0\FastFood.Services.Models.dll
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\bin\Debug\net6.0\FastFood.Services.Models.pdb
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\FastFood.Services.Models.csproj.AssemblyReference.cache
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\FastFood.Services.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\FastFood.Services.Models.AssemblyInfoInputs.cache
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\FastFood.Services.Models.AssemblyInfo.cs
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\FastFood.Services.Models.csproj.CoreCompileInputs.cache
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\FastFood.Services.Models.dll
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\refint\FastFood.Services.Models.dll
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\FastFood.Services.Models.pdb
+C:\Users\Stili\Downloads\07. Auto-Mapping-Objects-Project\FastFood.Services.Models\obj\Debug\net6.0\ref\FastFood.Services.Models.dll
