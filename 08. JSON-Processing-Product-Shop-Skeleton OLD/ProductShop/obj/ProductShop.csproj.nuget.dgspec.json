@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stili\\Downloads\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj": {}
+    "C:\\GitHub\\SoftUni-EntityFrameworkCore\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stili\\Downloads\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj": {
+    "C:\\GitHub\\SoftUni-EntityFrameworkCore\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stili\\Downloads\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj",
         "projectName": "ProductShop",
-        "projectPath": "C:\\Users\\Stili\\Downloads\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj",
+        "projectPath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj",
         "packagesPath": "C:\\Users\\Stili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stili\\Downloads\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stili\\AppData\\Roaming\\NuGet\\NuGet.Config",

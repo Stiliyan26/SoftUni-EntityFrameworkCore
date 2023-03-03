@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJw3c14qDwSCPijl0jHaf/detSfSOO2VAzFP5d1PhneREL7y8FGGRFhaSoep4EqZNrS3mQ3rBRmTZzQJNUwO7w==",
+  "dgSpecHash": "VyHsogzUPOtWpUtMu977adVtREAjSQa0Qi7Vl1D+fLcsEEYiSdGwxsXFWlkzg2reusZ5YsbioGA5UluzQU8mBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stili\\Downloads\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\08. JSON-Processing-Product-Shop-Skeleton OLD\\ProductShop\\ProductShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stili\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
     "C:\\Users\\Stili\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
