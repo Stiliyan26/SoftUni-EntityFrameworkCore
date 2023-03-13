@@ -23,20 +23,20 @@ namespace CarDealer
 
             string xml = File.ReadAllText("../../../Datasets/sales.xml");
 
-           /* string result = ImportSuppliers(dbContext, xml);
-            Console.WriteLine(result);*/
+            /* string result = ImportSuppliers(dbContext, xml);
+             Console.WriteLine(result);*/
 
-        /*    string result2 = ImportParts(dbContext, xml);
-            Console.WriteLine(result2);
+            /*    string result2 = ImportParts(dbContext, xml);
+                Console.WriteLine(result2);
 
-            string result3 = ImportCars(dbContext, xml);
-            Console.WriteLine(result3);
+                string result3 = ImportCars(dbContext, xml);
+                Console.WriteLine(result3);
 
-            string result4 = ImportCustomers(dbContext, xml);
-            Console.WriteLine(result4);
+                string result4 = ImportCustomers(dbContext, xml);
+                Console.WriteLine(result4);
 
-            string result5 = ImportSales(dbContext, xml);
-            Console.WriteLine(result5);*/
+                string result5 = ImportSales(dbContext, xml);
+                Console.WriteLine(result5);*/
 
             /*string result6 = GetCarsWithDistance(dbContext);
             Console.WriteLine(result6);*/
@@ -55,6 +55,7 @@ namespace CarDealer
 
             /*string result11 = GetSalesWithAppliedDiscount(dbContext);
             Console.WriteLine(result11);*/
+            Console.WriteLine(2);
         }
 
         //Problem 09

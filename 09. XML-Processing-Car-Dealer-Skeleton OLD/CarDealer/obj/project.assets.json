@@ -7307,11 +7307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stili\\Downloads\\09. XML-Processing-Car-Dealer-Skeleton OLD\\CarDealer\\CarDealer.csproj",
+      "projectUniqueName": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\09. XML-Processing-Car-Dealer-Skeleton OLD\\CarDealer\\CarDealer.csproj",
       "projectName": "CarDealer",
-      "projectPath": "C:\\Users\\Stili\\Downloads\\09. XML-Processing-Car-Dealer-Skeleton OLD\\CarDealer\\CarDealer.csproj",
+      "projectPath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\09. XML-Processing-Car-Dealer-Skeleton OLD\\CarDealer\\CarDealer.csproj",
       "packagesPath": "C:\\Users\\Stili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stili\\Downloads\\09. XML-Processing-Car-Dealer-Skeleton OLD\\CarDealer\\obj\\",
+      "outputPath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\09. XML-Processing-Car-Dealer-Skeleton OLD\\CarDealer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stili\\AppData\\Roaming\\NuGet\\NuGet.Config",

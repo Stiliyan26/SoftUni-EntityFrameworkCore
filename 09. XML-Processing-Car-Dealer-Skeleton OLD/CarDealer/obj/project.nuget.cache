@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cPPOzTVdT6U8kSknipz/UEh4XSKqZP9UehK5Y3gWeTI/wVMYcF01ElsYXapnMdea28783GOd+4h24aq+DNUkqQ==",
+  "dgSpecHash": "ioBLJTf++JIGWtzrvvkWj7tX9oK1irhaZMdJ0CQ6FK6w2bkos2bpOJSstXZI6edItmGYjZBIPP1z2mZEji4VUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stili\\Downloads\\09. XML-Processing-Car-Dealer-Skeleton OLD\\CarDealer\\CarDealer.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\09. XML-Processing-Car-Dealer-Skeleton OLD\\CarDealer\\CarDealer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stili\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Stili\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
