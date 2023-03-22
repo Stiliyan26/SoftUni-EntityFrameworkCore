@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 2,
+    "Name": "Violent",
+    "Games": []
+  },
+  {
+    "Id": 5,
+    "Name": "Nudity",
+    "Games": []
+  },
+  {
+    "Id": 14,
+    "Name": "Violent",
+    "Games": []
+  },
+  {
+    "Id": 17,
+    "Name": "Nudity",
+    "Games": []
+  },
+  {
+    "Id": 26,
+    "Name": "Violent",
+    "Games": []
+  },
+  {
+    "Id": 29,
+    "Name": "Nudity",
+    "Games": []
+  },
+  {
+    "Id": 38,
+    "Name": "Violent",
+    "Games": []
+  },
+  {
+    "Id": 41,
+    "Name": "Nudity",
+    "Games": []
+  }
+]
