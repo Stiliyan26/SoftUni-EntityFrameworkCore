@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stili\\Downloads\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj": {}
+    "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stili\\Downloads\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj": {
+    "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stili\\Downloads\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj",
         "projectName": "Artillery",
-        "projectPath": "C:\\Users\\Stili\\Downloads\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj",
+        "projectPath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj",
         "packagesPath": "C:\\Users\\Stili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stili\\Downloads\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stili\\AppData\\Roaming\\NuGet\\NuGet.Config",

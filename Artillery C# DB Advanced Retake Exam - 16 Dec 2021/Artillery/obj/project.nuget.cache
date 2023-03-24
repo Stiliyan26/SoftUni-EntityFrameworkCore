@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+ppoJUqnbDTSc1Y9pDLajPXqyVFXULdp8b3BrKF5RbL3OLdUoqADdjZGVhyrnilEUEANpQAfTv9FmM/wpNpiw==",
+  "dgSpecHash": "p+UBVgeaT4OFKXkJw8yqUV4ZFYLC8tc1lKfStU0TwfHBt7keZU2z1bhNRxd48bm9Jew17GwA2auvJrm+rzS2yA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stili\\Downloads\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Artillery C# DB Advanced Retake Exam - 16 Dec 2021\\Artillery\\Artillery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stili\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Stili\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
