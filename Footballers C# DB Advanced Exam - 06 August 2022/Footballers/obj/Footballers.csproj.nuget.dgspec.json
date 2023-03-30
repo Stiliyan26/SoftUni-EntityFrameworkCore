@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stili\\Downloads\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj": {}
+    "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stili\\Downloads\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj": {
+    "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stili\\Downloads\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj",
         "projectName": "Footballers",
-        "projectPath": "C:\\Users\\Stili\\Downloads\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj",
+        "projectPath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj",
         "packagesPath": "C:\\Users\\Stili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stili\\Downloads\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stili\\AppData\\Roaming\\NuGet\\NuGet.Config",

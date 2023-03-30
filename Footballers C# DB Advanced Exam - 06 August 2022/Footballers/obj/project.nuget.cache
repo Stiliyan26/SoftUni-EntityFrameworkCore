@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oruS6Ghxi2EJI8SbuL2ghh9jypNYoHWQWsXLN5iLVXbQefsz/O+Kl88MfOFzaeHnpwAv+gv6WS8w0dK8h8K11g==",
+  "dgSpecHash": "QYH509QPA75HAu5hhPUyi6OcBV6LlgXQkwqlKbQ+/pvgXUg5sp6JGDXjbJ+y5r0swNaLTIzFhW+EeOhE4zVusw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stili\\Downloads\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj",
+  "projectFilePath": "C:\\GitHub\\SoftUni-EntityFrameworkCore\\Footballers C# DB Advanced Exam - 06 August 2022\\Footballers\\Footballers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stili\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Stili\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
